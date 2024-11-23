@@ -1,41 +1,37 @@
-# _Starter Project_ _11ty_ + _GitHub Pages_.
+# 🩸 **WikiBerserk** 🗡️  
+*Explorando la oscuridad y la gloria de la obra maestra de Kentaro Miura.*
 
-## Instrucciones
+---
 
-1. Clona este repositorio.
-   ```bash
-   git clone https://github.com/jonmircha/starter-project-eleventy-github-pages.git
-   ```
-1. Instala las dependencias.
-   ```bash
-   npm install
-   ```
-1. Iniciar el ambiente de desarrollo.
-   ```bash
-   npm start
-   ```
-1. Comienza a crear el contenido de tu sitio.
-1. Cuando termines recuerda modificar en el _**package.json**_ el contenido del comando _**deploy-subdomain**_, reemplazando el texto:
-   ```bash
-   --pathprefix=/subdirectory/
-   ```
-   por
-   ```bash
-   --pathprefix=/el-nombre-de-tu-repositorio/
-   ```
-1. Limpia la carpeta docs y ejecuta tu despliegue:
-   ```bash
-   npm run clean
-   npm run deploy-subdomain
-   ```
-1. Crea un repositorio en tu cuenta de _GitHub_.
-1. Vincula tu carpeta con tu repositorio.
-1. Sube el contenido a _GitHub_.
-1. Configura el Servicio de _GitHub Pages_.
-1. Felíz despliegue 🥳 🦡🎈.
+Bienvenidos a **WikiBerserk**, un proyecto que rinde homenaje al universo sombrío y cautivador de *Berserk*. Aquí encontrarás un compendio detallado de artículos que diseccionan los personajes, artefactos, arcos narrativos y las profundidades filosóficas de esta saga inmortal.
 
-[Aquí](https://jonmircha.github.io/starter-project-eleventy-github-pages/) puedes ver la demo de este _starter project_.
+> “El destino está escrito con sangre, pero el hombre debe empuñar su espada.”  
 
-Tambien puedes ver mi Curso de _11ty_ en _YouTube_, da clic a la siguiente imagen. 👇🏻
+---
 
-[![Curso Eleventy](code/img/curso-youtube.png)](https://www.youtube.com/watch?v=yCF9l4_E5rI)
+## 🏰 **¿Qué encontrarás aquí?**  
+- **Análisis profundos** de los personajes icónicos: Guts, Griffith, Casca, y más.  
+- Una exploración de los **artefactos oscuros**, como el Beherit y la armadura del Berserker.  
+- Detalles sobre los **arcos narrativos**, desde *La Era Dorada* hasta los capítulos más oscuros del manga.  
+- Un diseño **gótico minimalista**, reflejando la esencia de *Berserk*.  
+
+---
+
+## 🔥 **Cómo explorar WikiBerserk**  
+1. Abre el sitio en tu navegador y navega entre las entradas.  
+2. Usa el **buscador** para encontrar tus temas favoritos.  
+3. Déjate llevar por el diseño inmersivo y la narrativa épica de cada artículo.  
+
+---
+
+## ⚔️ **Sobre el proyecto**  
+Esta wiki está creada con pasión por el legado de Kentaro Miura. Diseñada como un tributo a su obra, busca ser un refugio para los fans que desean adentrarse en los detalles más oscuros y fascinantes de *Berserk*.  
+
+> Porque en la oscuridad… también hay luz.  
+
+---
+
+🩸 **Forjemos juntos el camino del guerrero.**  
+*Bienvenidos al abismo, bienvenidos a WikiBerserk.*  
+
+
